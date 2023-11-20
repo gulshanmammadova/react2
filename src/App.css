@@ -9,6 +9,13 @@
   height: 40vmin;
   pointer-events: none;
 }
+form{
+  border: 1px solid gray;
+  padding: 10px 12px ;
+  width: 200px;
+  margin: 10px auto;
+  text-align: center;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
