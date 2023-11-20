@@ -1,7 +1,10 @@
-.App {
-  text-align: center;
+.valid-email,
+.valid-password{
+  color: red;
+ font-style: italic;
+ font-size: 12px;
+ display: none;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
